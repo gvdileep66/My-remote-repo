@@ -1,2 +1,3 @@
 # My-remote-repo
-remote
+Remote server in git hub. thank you
+"Gvdileep kumar reddy first remote repository"
