@@ -1,3 +1,3 @@
-# My-remote-repo
+#My-remote-repo
 Remote server in git hub. thank you
-"Gvdileep kumar reddy first remote repository"
+Gvdileep kumar reddy first remote repository.
